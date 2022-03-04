@@ -1,1 +1,8 @@
-
+<xml>
+  <id>1</id>
+  <summary>What, Where, When</summary>
+  <steps>The way to the bug</steps>
+  <actualResult>Doesn't work</actualResult>
+  <expectedResult>Work</expectedResult>
+  <severity>Critical</severity>
+  <priority>High</priority>
